@@ -45,4 +45,12 @@ public class AppTest
     	
     }
     
+    public static void myThirdTest() {
+    	
+    }
+    
+    public static void myFourthtest() {
+    	
+    }
+    
 }
