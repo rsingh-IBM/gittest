@@ -45,4 +45,8 @@ public class AppTest
     	
     }
     
+    public static void myThirdTest() {
+    	
+    }
+    
 }
