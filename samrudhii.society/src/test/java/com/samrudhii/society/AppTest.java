@@ -35,4 +35,10 @@ public class AppTest
     {
         assertTrue( true );
     }
+    
+   
+    public static void myFirstTest() {
+    	
+    }
+    
 }
